@@ -1,0 +1,3 @@
+Activity at 2023-01-12T10:55:01Z
+Action: Committed 'feat: Add support for multiple exchanges via configuration' to 'feature/issue-11-add-support-for-multiple-asse'.
+Changes: 60
