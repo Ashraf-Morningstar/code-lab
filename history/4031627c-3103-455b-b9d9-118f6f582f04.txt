@@ -1,3 +1,3 @@
-Activity at 2023-01-15T11:47:04Z
-Action: Committed 'feat: Basic persistence layer with RocksDB' to 'feature/issue-12-implement-a-fast-persistence-'.
-Changes: 28
+Activity at 2023-01-18T10:13:58Z
+Action: Committed 'chore: Bump version to v0.2.0' to 'release/v0.2.0'.
+Changes: 3
