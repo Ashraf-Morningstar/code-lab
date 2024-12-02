@@ -1,1 +1,1 @@
-Last Update: 2024-11-29T10:30:00Z - feat: Add basic login form UI
+Last Update: 2024-12-02T11:00:00Z - feat: Integrate Auth0 SDK for authentication
