@@ -1,0 +1,3 @@
+Activity at 2023-01-05T11:27:06Z
+Action: Committed 'feat: Introduce a simple VWAP execution strategy' to 'feature/issue-4-design-and-implement-vwap-execut'.
+Changes: 60
