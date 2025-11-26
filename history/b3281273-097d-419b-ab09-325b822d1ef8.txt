@@ -1,0 +1,3 @@
+Activity at 2023-01-19T13:21:40Z
+Action: Committed 'feat: Introduce a simple execution strategy (VWAP)' to 'feature/issue-17-add-support-for-delta-hedgin'.
+Changes: 28
