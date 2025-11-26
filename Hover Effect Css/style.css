@@ -1,0 +1,16 @@
+/*
+This projects are created by Ashraf Morningstar
+GitHub Profile: https://github.com/AshrafMorningstar
+*/
+
+button{
+color:black;
+background-color:white;
+}
+button:hover{
+color:gold;
+background-color:black;
+}
+
+button{ color:black; 
+  background-color:white; transition:0.3s; }

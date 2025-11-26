@@ -1,0 +1,33 @@
+/*
+This projects are created by Ashraf Morningstar
+GitHub Profile: https://github.com/AshrafMorningstar
+*/
+
+#timerwatch{
+	margin: 20px auto;
+	width: 600px;
+	text-align: center;
+	font-size: 30px;
+}
+#textbox {
+	resize: none;
+    display: block;
+    font-size: 20px;
+    margin: auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+}
+#textbox:hover{
+	border:1px solid #C2C6D2;
+}
+#inputbox{
+	resize: none;
+    display: block;
+    margin: auto;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+p{
+	font-family: 'Orbitron', sans-serif;
+}
